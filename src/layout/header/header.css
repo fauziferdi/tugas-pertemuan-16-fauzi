@@ -1,0 +1,16 @@
+.header {
+  background-color: #0e1f50;
+  text-align: center;
+  padding: 20px;
+  color: white;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.header h1 {
+  color: tomato;
+  margin-bottom: 0;
+}
+
+.header h2 {
+  margin-top: 0;
+}

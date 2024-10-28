@@ -1,0 +1,29 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto";
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0 auto;
+  max-width: 1440px;
+}
+
+.title {
+  color: tomato;
+}
+
+.title-second {
+  color: #0e1f50;
+  font-size: 40px;
+}

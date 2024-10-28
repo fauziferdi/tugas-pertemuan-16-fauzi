@@ -1,0 +1,31 @@
+.section-about {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #f6f6f6;
+}
+
+.section-item {
+  padding: 20px;
+  flex: 1;
+}
+
+.section-item:first-child {
+  text-align: end;
+}
+
+.section-item:nth-child(2) {
+  text-align: start;
+}
+
+.section-item .title {
+  color: tomato;
+}
+
+.section-item .title-second {
+  color: #0e1f50;
+  font-size: 40px;
+}
+.section-item p {
+  font-size: 20px;
+}

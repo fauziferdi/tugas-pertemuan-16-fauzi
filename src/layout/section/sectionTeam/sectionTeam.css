@@ -1,0 +1,29 @@
+.section-team {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.section-team-item {
+  padding: 10px;
+  flex-basis: 20%;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.margin-top-team {
+  margin-top: 100px;
+}
+
+.text-team {
+  color: tomato;
+  font-weight: bold;
+  font-size: 26px;
+  margin-bottom: 0;
+}
+
+.text-team-second {
+  font-size: 20px;
+  margin-top: 0;
+}
